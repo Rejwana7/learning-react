@@ -1,0 +1,18 @@
+.card {
+  background-color: rgba(202, 0, 202, 0.3);
+  border-radius: 8px;
+  padding: 8px;
+  margin: 10px 0px;
+}
+.title {
+  color: navy;
+}
+.name {
+  color: black;
+}
+.card-blue {
+  background-color: rgba(0, 111, 202, 0.3);
+  border-radius: 8px;
+  padding: 8px;
+  margin: 10px 0px;
+}
