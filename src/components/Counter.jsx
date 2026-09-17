@@ -1,8 +1,10 @@
 import "tailwindcss";
+import { use } from "react";
+import { CounterContext } from "../Providers/counter.provider.jsx";
 
+export default function Counter() {
+  const { count, setCount } = use(CounterContext);
 
-export default function Counter({count,setCount}) {
- 
   const handleIncrement = () => {
     setCount(count + 1);
   };

@@ -7,18 +7,18 @@
 // function App() {
 //   const [name, setName] = useState("");
 //    const [age, setAge] = useState("");
-// //   const [submittedName, setSubmittedName] = useState(
-// //     () => localStorage.getItem("submittedName") || "",
-// //   );
+//   const [submittedName, setSubmittedName] = useState(
+//     () => localStorage.getItem("submittedName") || "",
+//   );
 
-//   // const handleSubmit = (e) => {
-//   //   e.preventDefault();
-//   //   const trimmedName = name.trim();
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   const trimmedName = name.trim();
 
-//   //   setSubmittedName(trimmedName);
-//   //   localStorage.setItem("submittedName", trimmedName);
-//   //   setName("");
-//   // };
+  //   setSubmittedName(trimmedName);
+  //   localStorage.setItem("submittedName", trimmedName);
+  //   setName("");
+  // };
 
 // const members = [
 //   { name: "Mir", age: 20 },
